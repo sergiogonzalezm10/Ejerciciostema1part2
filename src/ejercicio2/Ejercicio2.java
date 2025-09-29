@@ -15,13 +15,11 @@ public class Ejercicio2 {
 		
 		resto = numEntero % 7;
 		
-		numSumar = (resto == 0)? 0 : (7-resto);
+		numSumar = (resto == 0)? 0 : (7-resto);	
+		
+		System.out.println("Hay que sumarle " + numSumar + " para que sea múltiplo de 7");
 		
 		
-		
-		
-		
-
 	}
 
 }

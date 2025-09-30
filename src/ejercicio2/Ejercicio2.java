@@ -19,7 +19,7 @@ public class Ejercicio2 {
 		
 		System.out.println("Hay que sumarle " + numSumar + " para que sea múltiplo de 7");
 		
-		
+		sc.close();
 	}
 
 }

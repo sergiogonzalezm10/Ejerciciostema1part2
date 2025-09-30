@@ -26,6 +26,8 @@ public class Ejercicio4 {
 		
 		System.out.println("El valor de y es: " + y);
 		c = sc.nextDouble();
+		
+		sc.close();
 	}
 
 }

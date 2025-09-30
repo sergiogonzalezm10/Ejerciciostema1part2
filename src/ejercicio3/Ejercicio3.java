@@ -21,7 +21,7 @@ public class Ejercicio3 {
 		
 		System.out.println("Hay que sumarle " + numSumar + " a " + num1 + " para que sea múltiplo de " + num2);
 		
-		
+		sc.close();
 	}
 
 }

@@ -25,7 +25,8 @@ public class Ejercicio1 {
 				
 		System.out.println("El número entero redondeado es: " + (numeroConDecimales ? (++numeroSinDecimales) : numeroSinDecimales));
 		
-
+		sc.close();
+		
 	}
 
 }

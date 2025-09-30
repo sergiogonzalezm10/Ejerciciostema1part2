@@ -9,7 +9,7 @@ public class Ejercicio4 {
 		double a;
 		double b;
 		double c;
-		double y;
+		final double y;
 		
 		Scanner sc = new Scanner(System.in);
 		
